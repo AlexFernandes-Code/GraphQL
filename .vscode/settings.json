@@ -1,0 +1,4 @@
+{
+    "appService.deploySubpath": ".",
+    "appService.defaultWebAppToDeploy": "/subscriptions/879fd243-4d3d-447e-bd2d-f43ca6f44262/resourceGroups/EPIUSE-GraphQL/providers/Microsoft.Web/sites/epiusegraphql"
+}
